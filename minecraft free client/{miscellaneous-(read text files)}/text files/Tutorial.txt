@@ -1,0 +1,4 @@
+if you are readng this thanks for downloading now here is the tutorial
+
+go onto the account site in the "sites" text file
+move the ".minecraft" file to your "%appdata%" file (yes type in the top bar %appdata% to get to the right file) and once that is done play the version of minecraft let it download or start up and then you are done
